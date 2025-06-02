@@ -1,3 +1,6 @@
+# Name:Madhushri P
+# Reg no: 212224040178
+# Date:19.04.2025
 # Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
 # Aim:
